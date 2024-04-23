@@ -24,7 +24,7 @@ def acepta_cadena_nueva(cadena, estado_inicial, transiciones, estados_aceptacion
 # Bucle que permite al usuario verificar cadenas repetidamente hasta que decida salir.
 while True:
     print("---------------------------------------------")
-    print("REALIZADO POR:\n Juan Carrillo (Crack)\n Daniel Escorcia (Gooty) \n David Silvera (El calvo)")
+    print("REALIZADO POR:\n Juan Carrillo\n Daniel Escorcia\n David Silvera ")
     print("---------------------------------------------")
     print("\n1. Ingresar y verificar una cadena.")
     print("2. Salir.")
